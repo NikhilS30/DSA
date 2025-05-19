@@ -5,7 +5,6 @@ package arrays;
  * Step 2 : Reverse first K elements
  * Step 3 : Reverse last N-k elements
 */
-
 public class RotateArrayKtimes {
 	public static void reverseArray(int[] inputarray, int low, int high) {
 		while (low <= high) {
