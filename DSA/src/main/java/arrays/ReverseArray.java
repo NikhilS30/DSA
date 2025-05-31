@@ -2,7 +2,7 @@ package arrays;
 
 /*
  * A basic question on array reverse without extra space
- * A follow up question with reverse in a range;ss
+ * A follow up question with reverse in a range;
 */
 
 public class ReverseArray {
